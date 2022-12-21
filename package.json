@@ -13,7 +13,7 @@
   "dependencies": {
     
     "express": "^4.18.2",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^2.0.0",
     "jimp": "^0.16.2",
     "node-font2base64": "^0.8.1",
     "node-html-to-image": "^3.2.4",
