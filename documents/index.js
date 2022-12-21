@@ -8,6 +8,7 @@ return `
           <title>PDF Result Template</title>
           </head>
           <body>
+          <br/>
           <th class="logo-wrapper">
           <img width="${size}px" src="file:///opt/render/project/src/images/image.png" class="logo-img"  />
         </th>
