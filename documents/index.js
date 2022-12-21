@@ -9,7 +9,7 @@ return `
           </head>
           <body>
           <th class="logo-wrapper">
-          <img width="${size}px" src="${url}" class="logo-img"  />
+          <img width="${size}px" src="https://radiator.ks.ua/pic/number/p1b.jpg" class="logo-img"  />
         </th>
           </body>
           
