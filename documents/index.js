@@ -1,4 +1,4 @@
-module.exports = ({url}) => {
+module.exports = ({url,size}) => {
     const today = new Date();
 return `
     <!doctype html>
@@ -9,7 +9,7 @@ return `
           </head>
           <body>
           <th class="logo-wrapper">
-          <img width="120px" src="${url}" class="logo-img"  />
+          <img width="${size}px" src="${url}" class="logo-img"  />
         </th>
           </body>
           
